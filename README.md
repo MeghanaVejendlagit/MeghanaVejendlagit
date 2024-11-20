@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MeghanaVejendlagit
 # 💫 About Me:
- I’m currently pursuing a Master’s degree in Computer Scienece with Emphasis of Data Science emphasis at  University of Missouri.I have a strong foundation in Computer Science, including expertise in Database Analytics, Machine Learning, and proficiency in Data Structures and Algorithms.
+ I’m currently pursuing a Master’s degree in Computer Scienece with Emphasis of Data Science emphasis at  University of Missouri.I have a strong foundation in Computer Science, including expertise in Database Analytics, Machine Learning, and proficiency in Data Structures and Algorithms.I am passionate about solving real-world problems through innovative technology.
 
 
 ## 🌐 Socials:
